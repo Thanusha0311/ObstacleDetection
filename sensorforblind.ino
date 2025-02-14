@@ -1,6 +1,3 @@
-/*Modified by
- * Technical team, REES52
- */
 
 #define pingPin 2        //trig pin of sr04
 #define echoPin 3
